@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md.Moinul Islam</h1>
 <h3 align="center">A passionate frontend developer and Researcher from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinul909&label=Profile%20views&color=0e75b6&style=flat" alt="moinul909" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=moinul909&label=Profile%20views&color=0e75b6&style=flat" alt="moinul909" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinul909" alt="moinul909" /></a> </p>
 
