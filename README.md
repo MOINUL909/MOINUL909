@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Md.Moinul Islam</h1>
 <h3 align="center">A passionate frontend developer and Researcher from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=moinul909&label=Profile%20views&color=0e75b6&style=flat" alt="moinul909" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinul909&label=Profile%20views&color=0e75b6&style=flat" alt="moinul909" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinul909" alt="moinul909" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mr-moinul-islam-a420401b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mr-moinul-islam-a420401b3/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/mdmoinulislam909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdmoinulislam909" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100016678780613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100016678780613" height="30" width="40" /></a>
 </p>
 
